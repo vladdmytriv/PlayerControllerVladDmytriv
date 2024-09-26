@@ -1,0 +1,61 @@
+{
+  "uuid": "755e5a47-4ec3-4639-9327-56c1534c3fdc",
+  "historyId": "8ef9e4cbb4497b9c2928b70e1c95ec25",
+  "fullName": "tests.PlayerServiceTests.verifyGetPlayerById",
+  "labels": [
+    {
+      "name": "package",
+      "value": "tests.PlayerServiceTests"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.PlayerServiceTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "verifyGetPlayerById"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Demo"
+    },
+    {
+      "name": "subSuite",
+      "value": "tests.PlayerServiceTests"
+    },
+    {
+      "name": "host",
+      "value": "PW09H5CJ"
+    },
+    {
+      "name": "thread",
+      "value": "6816@PW09H5CJ.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "verifyGetPlayerById",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1727361996105,
+  "stop": 1727361996314
+}

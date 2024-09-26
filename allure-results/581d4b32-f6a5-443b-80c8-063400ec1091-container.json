@@ -1,0 +1,24 @@
+{
+  "uuid": "581d4b32-f6a5-443b-80c8-063400ec1091",
+  "name": "tests.PlayerServiceTests",
+  "children": [
+    "e6b6ba87-d733-41d0-bda4-37e5726b54a7",
+    "11a943cf-957a-4768-aaa4-3939e009506b"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1727361985485,
+      "stop": 1727361986828
+    }
+  ],
+  "afters": [],
+  "start": 1727361985413,
+  "stop": 1727361987235
+}
